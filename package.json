@@ -1,0 +1,25 @@
+{
+  "name": "eslint-plugin-dynamic-jest-global",
+  "version": "0.0.1",
+  "description": "Plugin for providing Jest globals to eslint globals",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "NODE_PATH=./ node src/__tests__/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickshevr/eslint-plugin-dynamic-jest-global.git"
+  },
+  "keywords": [
+    "eslint",
+    "jest",
+    "plugin",
+    "globals"
+  ],
+  "author": "nickshevr@yandex-team.ru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickshevr/eslint-plugin-dynamic-jest-global/issues"
+  },
+  "homepage": "https://github.com/nickshevr/eslint-plugin-dynamic-jest-global#readme"
+}
